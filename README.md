@@ -17,25 +17,19 @@
 <font size=4>**XML部分控件**</font>
 
 
-|控件名|作用|
-|---|---|---|
-|VerticalLayout|纵向布局控件|
-|HorizaontalLayout|水平布局控件|
-|Button|按钮控件响应点击消息|
-|Option和TabLayout |两控件一起使用实现多页面|
-|List|在界面中显示一个列表|
-|Edit|显示一个编辑框|
-|Label和Text|放文字信息|
-|Control|所用控件的基类可以用来放图片|
-|ComboBox|下拉框控件|
 
-|文件夹|说明|
+|控件名|作用|
 |--|--|
-|ZBConfigCommon/ |主要基础代码工程。|
-|ZbConfigMain/ |主APP工程|
-|ZbConfigSetup/ |安装向导，已不再提供 |
-|DB/ |用于测试数据库文件夹，默认密码为admin/admin|
-|res/ |零碎的参考资源|
+|VerticalLayout/ |纵向布局控件|
+|HorizaontalLayout/ |水平布局控件|
+|Button/ |按钮控件响应点击消息 |
+|Option和TabLayout/ |两控件一起使用实现多页面|
+|List/ |在界面中显示一个列表|
+|Edit/|显示一个编辑框|
+|Label和Text/|放文字信息|
+|Control/|所用控件的基类可以用来放图片|
+|ComboBox/|下拉框控件|
+
 
 <font size=4>**消息响应类型**</font>
 
