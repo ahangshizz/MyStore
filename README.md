@@ -18,10 +18,10 @@
 
 | 控件名 |  作用  |
 |--|--|--|
-|  VerticalLayout| 纵向布局控件 |
-|HorizaontalLayout|水平布局控件|
-|Button|按钮控件,响应点击消息|
-|Option和TabLayout|两控件一起使用实现多页面
+|  VerticalLayout | 纵向布局控件 |
+| HorizaontalLayout |水平布局控件|
+| Button| 按钮控件,响应点击消息|
+| Option和TabLayout | 两控件一起使用实现多页面|
 |List|在界面中显示一个列表|
 |Edit|显示一个编辑框|
 |Label/Text|放文字信息|
