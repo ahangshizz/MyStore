@@ -29,6 +29,13 @@
 |Control|所用控件的基类可以用来放图片|
 |ComboBox|下拉框控件|
 
+|文件夹|说明|
+|--|--|
+|ZBConfigCommon/ |主要基础代码工程。|
+|ZbConfigMain/ |主APP工程|
+|ZbConfigSetup/ |安装向导，已不再提供 |
+|DB/ |用于测试数据库文件夹，默认密码为admin/admin|
+|res/ |零碎的参考资源|
 
 <font size=4>**消息响应类型**</font>
 
