@@ -26,7 +26,7 @@
 |Edit|显示一个编辑框|
 |Label/Text|放文字信息|
 |Control|所用控件的基类,可以用来放图片|
-ComboBox|下拉框控件|
+|ComboBox|下拉框控件|
 
 
 <font size=4>**消息响应类型**</font>
