@@ -17,16 +17,16 @@
 <font size=4>**XML部分控件**</font>
 
 
-| 控件名 |  作用  |
+|控件名|作用|
 |--|--|--|
-|  VerticalLayout | 纵向布局控件 |
-| HorizaontalLayout |水平布局控件|
-| Button| 按钮控件,响应点击消息|
-| Option和TabLayout | 两控件一起使用实现多页面|
+|VerticalLayout|纵向布局控件|
+|HorizaontalLayout|水平布局控件|
+|Button|按钮控件响应点击消息|
+|Option和TabLayout |两控件一起使用实现多页面|
 |List|在界面中显示一个列表|
 |Edit|显示一个编辑框|
 |Label和Text|放文字信息|
-|Control|所用控件的基类,可以用来放图片|
+|Control|所用控件的基类可以用来放图片|
 |ComboBox|下拉框控件|
 
 
