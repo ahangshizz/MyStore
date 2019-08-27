@@ -18,7 +18,7 @@
 
 
 |控件名|作用|
-|--|--|--|
+|---|---|---|
 |VerticalLayout|纵向布局控件|
 |HorizaontalLayout|水平布局控件|
 |Button|按钮控件响应点击消息|
@@ -41,11 +41,14 @@
 
 **1.注册消息处理函数**
 在CWindowWnd的Create()函数(创建窗口函数)中调用RegisterSuperclass(),注册消息回调函数(__WndProc);
+
 **2.消息分发**
 消息回调函数(处理所有系统发送的消息),通过调用HandleMessage()对消息进行分发
+
 **3.消息循环**
 在CPaintManagerUI类的MessageLoop处理消息循环;
 接收到消息后,进入消息回调函数(__WndProc)
+
 **4.处理消息**
 通过CPaintManagerUI:: SendNotify回调控件注册的事件,最后通过Notify获取控件名称并进入相应的函数
 
