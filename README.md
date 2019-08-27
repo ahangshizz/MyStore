@@ -16,6 +16,7 @@
 
 <font size=4>**XML部分控件**</font>
 
+<a name="table">
 | 控件名 |  作用  |
 |--|--|--|
 |  VerticalLayout | 纵向布局控件 |
@@ -27,7 +28,7 @@
 |Label/Text|放文字信息|
 |Control|所用控件的基类,可以用来放图片|
 |ComboBox|下拉框控件|
-
+</a>
 
 <font size=4>**消息响应类型**</font>
 
