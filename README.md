@@ -123,4 +123,5 @@ int APIENTRY _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCm
 
 #  项目扩展
 1.在本次设计当中还有很多地方需要去完善,应该更加贴近生活,使用户交互更加的人性化,比如在设计当中应该添加会员管理界面,并能实现对会员信息的增删查改,以及对会员等级的自动升级
+
 2.在实现过程当中未考虑到多用户同时操作带来的线程安全问题
