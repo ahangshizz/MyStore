@@ -1,0 +1,61 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+h:\duilib\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  WinImplBase.cpp
+  Utils.cpp
+  UIDelegate.cpp
+  UIlib.cpp
+  UIVerticalLayout.cpp
+h:\duilib\duilib-master\duilib\layout\uiverticallayout.cpp(251): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UITileLayout.cpp
+  UITabLayout.cpp
+  UIHorizontalLayout.cpp
+h:\duilib\duilib-master\duilib\layout\uihorizontallayout.cpp(246): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIChildLayout.cpp
+  UIRender.cpp
+h:\duilib\duilib-master\duilib\core\uirender.cpp(1114): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIMarkup.cpp
+  UIManager.cpp
+  UIDlgBuilder.cpp
+  UIControl.cpp
+h:\duilib\duilib-master\duilib\core\uicontrol.cpp(682): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIContainer.cpp
+  UIBase.cpp
+  UIWebBrowser.cpp
+  UITreeView.cpp
+  UIText.cpp
+h:\duilib\duilib-master\duilib\control\uitext.cpp(52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UISlider.cpp
+h:\duilib\duilib-master\duilib\control\uislider.cpp(174): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  UIScrollBar.cpp
+  UIRichEdit.cpp
+  UIProgress.cpp
+  UIOption.cpp
+  UIList.cpp
+h:\duilib\duilib-master\duilib\control\uilist.cpp(1444): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+h:\duilib\duilib-master\duilib\control\uilist.cpp(1989): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UILabel.cpp
+h:\duilib\duilib-master\duilib\control\uilabel.cpp(67): warning C4297: “DuiLib::CLabelUI::~CLabelUI”: 假定函数不引发异常，但确实发生了
+  h:\duilib\duilib-master\duilib\control\uilabel.cpp(67): note: 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  UIEdit.cpp
+h:\duilib\duilib-master\duilib\control\uiedit.cpp(194): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIDateTime.cpp
+h:\duilib\duilib-master\duilib\control\uidatetime.cpp(231): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIComboBox.cpp
+  UICombo.cpp
+  UICheckBox.cpp
+  UIButton.cpp
+h:\duilib\duilib-master\duilib\control\uibutton.cpp(107): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIActiveX.cpp
+  正在生成代码...
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stb_image.c
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  XUnzip.cpp
+G:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(H:\Duilib\duilib-master\DuiLib\.\Build\Debug_u\DuiLib.dll) 与 Linker 的 OutputFile 属性值(H:\Duilib\duilib-master\bin\DuiLib_ud.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+G:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(DuiLib) 与 Linker 的 OutputFile 属性值(DuiLib_ud)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+    正在创建库 ../Lib/DuiLib_ud.lib 和对象 ../Lib/DuiLib_ud.exp
+  DuiLib.vcxproj -> H:\Duilib\duilib-master\DuiLib\.\Build\Debug_u\DuiLib.dll

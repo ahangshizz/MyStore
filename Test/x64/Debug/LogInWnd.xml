@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="673,365">
+    <VerticalLayout width="860" height="429" bkimage="timg.jpg">
+        <HorizontalLayout width="952" height="54">
+            <Button name="Btn_CLOSE" tooltip="关闭" float="true" pos="640,2,0,0" width="31" height="28" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="CloseNormal.bmp" hotimage="CloseFocus.bmp" pushedimage="CloseFocus.bmp" />
+            <Button name="Btn_MIN" tooltip="最小化" float="true" pos="608,2,0,0" width="31" height="28" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="MinNormal.bmp" hotimage="MinFocus.bmp" pushedimage="MinFocus.bmp" />
+        </HorizontalLayout>
+        <Edit name="Edit_USER_NAME" tooltip="请输入用户名" float="true" pos="176,136,0,0" width="339" height="51" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Edit name="Edit_USER_PASSWORD" tooltip="请输入密码" float="true" pos="176,220,0,0" width="339" height="51" bkcolor="#FFFFFFFF" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" password="true" />
+        <Button name="Btn_LOGIN" text="登      录" float="true" pos="251,295,0,0" width="167" height="45" textcolor="#001200FF" disabledtextcolor="#FFA7A6AA" align="center" />
+        <Control float="true" pos="141,146,0,0" width="31" height="27" bkimage="用户名.png" />
+        <Control float="true" pos="144,235,0,0" width="23" height="23" bkimage="密码.png" />
+    </VerticalLayout>
+</Window>

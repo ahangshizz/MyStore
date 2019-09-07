@@ -1,0 +1,57 @@
+﻿  StdAfx.cpp
+h:\duilib\duilib-master\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIActiveX.cpp
+  UIButton.cpp
+h:\duilib\duilib-master\duilib\control\uibutton.cpp(107): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UICheckBox.cpp
+  UICombo.cpp
+  UIComboBox.cpp
+  UIDateTime.cpp
+h:\duilib\duilib-master\duilib\control\uidatetime.cpp(231): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIEdit.cpp
+h:\duilib\duilib-master\duilib\control\uiedit.cpp(194): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UILabel.cpp
+h:\duilib\duilib-master\duilib\control\uilabel.cpp(67): warning C4297: “DuiLib::CLabelUI::~CLabelUI”: 假定函数不引发异常，但确实发生了
+  h:\duilib\duilib-master\duilib\control\uilabel.cpp(67): note: 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  UIList.cpp
+h:\duilib\duilib-master\duilib\control\uilist.cpp(1444): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+h:\duilib\duilib-master\duilib\control\uilist.cpp(1989): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIOption.cpp
+  UIProgress.cpp
+  UIRichEdit.cpp
+  UIScrollBar.cpp
+  UISlider.cpp
+h:\duilib\duilib-master\duilib\control\uislider.cpp(174): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIText.cpp
+h:\duilib\duilib-master\duilib\control\uitext.cpp(52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UITreeView.cpp
+  UIWebBrowser.cpp
+  UIBase.cpp
+  UIContainer.cpp
+  UIControl.cpp
+h:\duilib\duilib-master\duilib\core\uicontrol.cpp(682): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  UIDlgBuilder.cpp
+  UIManager.cpp
+  UIMarkup.cpp
+  UIRender.cpp
+h:\duilib\duilib-master\duilib\core\uirender.cpp(1114): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIChildLayout.cpp
+  UIHorizontalLayout.cpp
+h:\duilib\duilib-master\duilib\layout\uihorizontallayout.cpp(246): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UITabLayout.cpp
+  UITileLayout.cpp
+  UIVerticalLayout.cpp
+h:\duilib\duilib-master\duilib\layout\uiverticallayout.cpp(251): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIlib.cpp
+  UIDelegate.cpp
+  Utils.cpp
+  WinImplBase.cpp
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+G:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(H:\Duilib\duilib-master\DuiLib\.\Build\Release_u\DuiLib.dll) 与 Linker 的 OutputFile 属性值(H:\Duilib\duilib-master\bin\DuiLib_u.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+G:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(DuiLib) 与 Linker 的 OutputFile 属性值(DuiLib_u)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+    正在创建库 ../Lib/DuiLib_u.lib 和对象 ../Lib/DuiLib_u.exp
+  DuiLib.vcxproj -> H:\Duilib\duilib-master\DuiLib\.\Build\Release_u\DuiLib.dll

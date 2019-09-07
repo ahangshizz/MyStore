@@ -1,0 +1,11 @@
+﻿  Cashier.cpp
+c:\users\asus\desktop\-learning-record\test\x64\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  LogIn.cpp
+c:\users\asus\desktop\-learning-record\test\x64\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainWnd.cpp
+c:\users\asus\desktop\-learning-record\test\x64\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\asus\desktop\-learning-record\test\test\mainwnd.cpp(33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Main.cpp
+c:\users\asus\desktop\-learning-record\test\x64\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  Test.vcxproj -> C:\Users\asus\Desktop\-Learning-record\Test\x64\Debug\Test.exe

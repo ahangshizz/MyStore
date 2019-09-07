@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\asus\desktop\-learning-record\test\test\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  Test.vcxproj -> C:\Users\asus\Desktop\-Learning-record\Test\Debug\Test.exe
